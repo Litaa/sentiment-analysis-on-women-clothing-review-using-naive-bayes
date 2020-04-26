@@ -1,3 +1,3 @@
-# sentiment-analysis-on-woman-clothing-review-using-naive-bayes
+# sentiment-analysis-on-women-clothing-review-using-naive-bayes
 
  
